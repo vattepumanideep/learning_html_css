@@ -1,0 +1,35 @@
+.color_yellow {
+    color: yellow;
+
+}
+
+.color_pink{
+    color: pink;
+}
+
+.color_blue{
+    color: cornflowerblue;
+}
+
+img {
+    width: 400px;
+}
+ 
+.manideep {
+    border: 100px;
+    border-style:ridge;
+    border-width: 40px;
+    border-color: rgb(87, 30, 210);
+
+
+    padding: 20px;
+
+    margin: 30px;
+
+    text-align: left;
+    text-align: center;
+    text-align: right;
+    text-align: justify;
+
+    width: 50%;
+}
