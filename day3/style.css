@@ -1,0 +1,22 @@
+h1 {
+    color: blueviolet;
+}
+
+.manideep {
+    border: 5px solid goldenrod;
+    padding: 20px;
+
+    width: 50%;
+
+    text-align: justify;
+
+    color: black;
+
+    background-color: beige;
+
+    background-image: url(https://i.pinimg.com/236x/8d/d4/cf/8dd4cff065cb637ae243b972a953ccbd.jpg);
+
+    background-size:cover;
+    
+
+}
