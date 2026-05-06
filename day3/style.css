@@ -1,22 +1,10 @@
-h1 {
-    color: blueviolet;
+table,th,td {
+    border: 1px solid rgb(199, 32, 218);
+    border-collapse: collapse;
+    padding: 10px;
 }
 
-.manideep {
-    border: 5px solid goldenrod;
-    padding: 20px;
-
-    width: 30%;
-
-    text-align: justify;
-
-    color: black;
-
-    background-color: beige;
-
-    background-image: url(https://i.pinimg.com/236x/19/93/82/199382704780384262ec652f48201f8c.jpg);
-
-    background-size:cover;
-
-
+table, th{
+    background-color: rgb(50, 76, 204);
+    
 }

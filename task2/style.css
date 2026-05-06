@@ -1,0 +1,49 @@
+
+.navbar {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 20px;
+    border: 1px solid green;
+
+    background: pink;
+    color: green;
+
+    transition: .5s;
+
+}
+
+.navbar a:hover {
+    background: red;
+    color: brown;
+}
+
+h1 {
+    color: blueviolet;
+}
+
+.HERO {
+    color: black;
+    height: 90vh;
+
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    color: black;
+    font-size: 50px;
+    
+}
+
+.FORM {
+    border:1px solid red;
+}
+
