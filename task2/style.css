@@ -1,5 +1,4 @@
-
-.navbar {
+.navbar{
 
     display: flex;
     align-items: center;
@@ -12,16 +11,16 @@
     margin: 0 20px;
     border: 1px solid green;
 
-    background: pink;
-    color: green;
+    background: black;
+    color: white;
 
     transition: .5s;
 
 }
 
 .navbar a:hover {
-    background: red;
-    color: brown;
+    background: white;
+    color: black;
 }
 
 h1 {
@@ -43,7 +42,44 @@ h1 {
     
 }
 
-.FORM {
-    border:1px solid red;
+.projects {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+    gap: 1em;
+}
+
+.projects img {
+    width: 100%;
+}
+
+.about {
+
+}
+
+.about .container {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 1em;
+}
+
+.about_container .card {
+
+}
+
+.card img {
+    width: 100%;
+}
+
+
+.FORM,input {
+    width: 98%;
+    padding: 10px;
+    margin-bottom: 12px;
+
+}
+
+.msg {
+    width: 153px;
 }
 
